@@ -1,0 +1,86 @@
+nin_cifar10                      0.30363
+
+resnet20_cifar10                 0.17499
+resnet56_cifar10                 0.16539
+resnet110_cifar10                0.22678
+resnet164bn_cifar10              0.29928
+resnet272bn_cifar10              0.17881
+resnet542bn_cifar10              0.19704
+resnet1001_cifar10               0.16743
+resnet1202_cifar10               0.17800
+
+preresnet20_cifar10              0.18543
+preresnet56_cifar10              0.12390
+preresnet110_cifar10             0.28506
+preresnet164bn_cifar10           0.17448
+preresnet272bn_cifar10           0.17142
+preresnet542bn_cifar10           0.09914
+preresnet1001_cifar10            0.18579
+preresnet1202_cifar10            0.15591
+
+seresnet20_cifar10               0.23979
+seresnet56_cifar10               0.13965
+seresnet110_cifar10              0.27532
+seresnet164bn_cifar10            0.27517
+seresnet272bn_cifar10            0.13298
+seresnet542bn_cifar10            0.16033
+
+sepreresnet20_cifar10            0.22260
+sepreresnet56_cifar10            0.28765
+sepreresnet110_cifar10           0.27381
+sepreresnet164bn_cifar10         0.16936
+sepreresnet272bn_cifar10         0.16122
+sepreresnet542bn_cifar10         0.15847
+
+pyramidnet110_a48_cifar10        0.17974
+pyramidnet110_a84_cifar10        0.25732
+pyramidnet110_a270_cifar10       0.14476
+pyramidnet164_a270_bn_cifar10    0.18991
+pyramidnet200_a240_bn_cifar10    0.12544
+pyramidnet236_a220_bn_cifar10    0.14338
+pyramidnet272_a200_bn_cifar10    0.19549
+
+densenet40_k12_cifar10           0.23954
+densenet40_k12_bc_cifar10        0.23468
+densenet40_k24_bc_cifar10        0.20855
+densenet40_k36_bc_cifar10        0.25792
+densenet100_k12_cifar10          0.28858
+densenet100_k24_cifar10          0.14935
+densenet100_k12_bc_cifar10       0.34458
+densenet190_k40_bc_cifar10       0.21173
+densenet250_k24_bc_cifar10       0.18245
+
+xdensenet40_2_k24_bc_cifar10     0.24837
+xdensenet40_2_k36_bc_cifar10     0.30895
+
+wrn16_10_cifar10                 0.15864
+wrn28_10_cifar10                 0.17589
+wrn40_8_cifar10                  0.21565
+wrn20_10_1bit_cifar10            0.12562
+wrn20_10_32bit_cifar10           0.20012
+
+ror3_56_cifar10                  0.24275
+ror3_110_cifar10                 0.28892
+ror3_164_cifar10                 0.18166
+
+rir_cifar10                      0.14601
+
+shakeshakeresnet20_2x16d_cifar10 0.18733
+shakeshakeresnet26_2x32d_cifar10 0.12385
+
+diaresnet20_cifar10              0.36161
+diaresnet56_cifar10              0.19100
+diaresnet110_cifar10             0.20177
+diaresnet164bn_cifar10           0.13040
+
+diapreresnet20_cifar10           0.20095
+diapreresnet56_cifar10           0.15839
+diapreresnet110_cifar10          0.20748
+diapreresnet164bn_cifar10        0.15617
+
+
+densenet100_k12_cifar10          0.28858
+
+
+
+
